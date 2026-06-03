@@ -1,5 +1,3 @@
-https://colab.research.google.com/drive/1Yu7_exAgStv6DjqpB2bkpzBzHwBD4Nvs?usp=drive_link 
-
 # E-Commerce Customer Data Analysis – Python
 
 ## About the Project
@@ -17,4 +15,5 @@ Analyzed 5000+ e-commerce customer records to identify purchasing behavior and c
 - Prepared structured datasets for reporting
 
 ## Google Colab Notebook
+
 https://colab.research.google.com/drive/1Yu7_exAgStv6DjqpB2bkpzBzHwBD4Nvs?usp=drive_link
